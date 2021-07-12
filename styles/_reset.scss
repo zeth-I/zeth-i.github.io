@@ -1,0 +1,31 @@
+html{
+    scroll-behavior: smooth;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul, li {
+    list-style: none;
+}
+  
+a {
+    text-decoration: none;
+}
+  
+img {
+    width: 100%;
+    height: auto;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background: var(--body-color);
+}
+
+p{
+    color: var(--text-color);
+}
