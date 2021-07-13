@@ -579,6 +579,14 @@ body.dark-theme {
   width: 50%;
 }
 
+.skills__react {
+  width: 30%;
+}
+
+.skills__next {
+  width: 15%;
+}
+
 .skills__firebase {
   width: 20%;
 }
